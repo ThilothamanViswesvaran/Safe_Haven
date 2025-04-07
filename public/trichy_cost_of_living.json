@@ -1,0 +1,97 @@
+{
+    "Thillai Nagar": {
+        "avgRent": 15000,
+        "avgFood": 5000,
+        "transport": 2000
+    },
+    "Srirangam": {
+        "avgRent": 10000,
+        "avgFood": 4000,
+        "transport": 1800
+    },
+    "Woraiyur": {
+        "avgRent": 12000,
+        "avgFood": 4500,
+        "transport": 1900
+    },
+    "KK Nagar": {
+        "avgRent": 14000,
+        "avgFood": 4800,
+        "transport": 2000
+    },
+    "Cantonment": {
+        "avgRent": 17000,
+        "avgFood": 5200,
+        "transport": 2200
+    },
+    "Tennur": {
+        "avgRent": 11000,
+        "avgFood": 4300,
+        "transport": 1800
+    },
+    "Edamalaipatti Pudur": {
+        "avgRent": 9000,
+        "avgFood": 4000,
+        "transport": 1700
+    },
+    "Puthur": {
+        "avgRent": 13000,
+        "avgFood": 4700,
+        "transport": 2000
+    },
+    "Sangillyandapuram": {
+        "avgRent": 8000,
+        "avgFood": 3800,
+        "transport": 1600
+    },
+    "Palakkarai": {
+        "avgRent": 7500,
+        "avgFood": 3700,
+        "transport": 1500
+    },
+    "Ponmalai (Golden Rock)": {
+        "avgRent": 9500,
+        "avgFood": 3900,
+        "transport": 1700
+    },
+    "Kattur": {
+        "avgRent": 8500,
+        "avgFood": 3800,
+        "transport": 1600
+    },
+    "Manapparai": {
+        "avgRent": 7000,
+        "avgFood": 3500,
+        "transport": 1400
+    },
+    "Samayapuram": {
+        "avgRent": 7800,
+        "avgFood": 3600,
+        "transport": 1500
+    },
+    "Navalpattu": {
+        "avgRent": 9200,
+        "avgFood": 4000,
+        "transport": 1750
+    },
+    "BHEL Township": {
+        "avgRent": 10000,
+        "avgFood": 4200,
+        "transport": 1850
+    },
+    "Kumaran Nagar": {
+        "avgRent": 12000,
+        "avgFood": 4600,
+        "transport": 1950
+    },
+    "Cauvery Nagar": {
+        "avgRent": 9000,
+        "avgFood": 3900,
+        "transport": 1700
+    },
+    "Tiruverumbur": {
+        "avgRent": 9800,
+        "avgFood": 4000,
+        "transport": 1750
+    }
+}

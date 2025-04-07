@@ -1,0 +1,786 @@
+[
+  {
+    "name": "Kaveri Supermarket",
+    "address": "131, Ammamandapam Rd, Ganapathy Nagar, Sriramapuram, Srirangam, Tiruchirappalli, Tamil Nadu 620008, Ammamandapam Road, Ganapathy Nagar, Sriramapuram",
+    "latitude": 10.8467687,
+    "longitude": 78.6909122,
+    "type": "supermarket"
+  },
+  {
+    "name": "Evening Market",
+    "address": "102, S, 115, South Chitra Street, Srirangam, Tiruchirappalli",
+    "latitude": 10.859821,
+    "longitude": 78.6892778,
+    "type": "supermarket"
+  },
+  {
+    "name": "JAC DEPARTMENTAL STORE",
+    "address": "15/1, Gandhi Road, Srirangam, Tiruchirappalli",
+    "latitude": 10.8574237,
+    "longitude": 78.69206400000002,
+    "type": "supermarket"
+  },
+  {
+    "name": "SANTHI DEPARTMENT STORE",
+    "address": "17c, Gandhi Road, Srirangam, Tiruchirappalli",
+    "latitude": 10.8569777,
+    "longitude": 78.69296369999999,
+    "type": "supermarket"
+  },
+  {
+    "name": "Gramiyaa Naattu Mara Chekku Oil",
+    "address": "66, Ammamandapam Road, Ranga Nagar, Sriramapuram",
+    "latitude": 10.8565419,
+    "longitude": 78.6894934,
+    "type": "supermarket"
+  },
+  {
+    "name": "Nandhini Traders",
+    "address": "nandhini traders, 34/23, EVS Street, Ranga Nagar",
+    "latitude": 10.8558807,
+    "longitude": 78.6916043,
+    "type": "supermarket"
+  },
+  {
+    "name": "Meenakshi Stores",
+    "address": "Srirangam",
+    "latitude": 10.8572884,
+    "longitude": 78.68676359999999,
+    "type": "supermarket"
+  },
+  {
+    "name": "Balaganapathi Maligai And General Merchant",
+    "address": "18/1, Ammamandapam Road, Srirangam",
+    "latitude": 10.849811,
+    "longitude": 78.689582,
+    "type": "supermarket"
+  },
+  {
+    "name": "The Best Super Market",
+    "address": "61,62, Vasans Complex, Sannathi Street, Thiruvanaikoil, Tiruchirappalli",
+    "latitude": 10.8526077,
+    "longitude": 78.7013525,
+    "type": "supermarket"
+  },
+  {
+    "name": "Home Plus",
+    "address": "13/27, west St, Srirangam, Tiruchirappalli",
+    "latitude": 10.8502661,
+    "longitude": 78.69976989999999,
+    "type": "supermarket"
+  },
+  {
+    "name": "Shri Saranga Traders",
+    "address": "No.53, Water Tank Building, Periyar Nagar, Thiruvanaikoil, Tiruchirappalli",
+    "latitude": 10.8488001,
+    "longitude": 78.69676539999999,
+    "type": "supermarket"
+  },
+  {
+    "name": "New Victory Super Market",
+    "address": "No. 1, Lulu River View Apartments, Nochiyam Pudhupalam Bus Stop, Salem Main Road, Tiruchirappalli",
+    "latitude": 10.8800742,
+    "longitude": 78.6944986,
+    "type": "supermarket"
+  },
+  {
+    "name": "J.J Maligai store",
+    "address": "Srirangam, Thiruvanaikoil, Tiruchirappalli",
+    "latitude": 10.8497758,
+    "longitude": 78.70338029999999,
+    "type": "supermarket"
+  },
+  {
+    "name": "Indian Overseas Bank - Thiruvarangam Branch",
+    "address": "VM7R+3G7, East Uthrai Street, Srirangam",
+    "latitude": 10.8626518,
+    "longitude": 78.6913079,
+    "type": "atm"
+  },
+  {
+    "name": "State Bank of India",
+    "address": "No.1.South Uttara Street, Srirangam",
+    "latitude": 10.8604764,
+    "longitude": 78.68971739999999,
+    "type": "atm"
+  },
+  {
+    "name": "State Bank Of India ATM",
+    "address": "VM4Q+FWG, Srirangam",
+    "latitude": 10.8561822,
+    "longitude": 78.6898308,
+    "type": "atm"
+  },
+  {
+    "name": "Sbi ATM",
+    "address": "79A, North Adayavalanjan Street, Srirangam, N",
+    "latitude": 10.8654199,
+    "longitude": 78.69017699999999,
+    "type": "atm"
+  },
+  {
+    "name": "Axis Bank ATM",
+    "address": "No 1, Annai Illam, opposite Thangam Avenue, Srirangam, Tiruchirappalli",
+    "latitude": 10.8665542,
+    "longitude": 78.6934297,
+    "type": "atm"
+  },
+  {
+    "name": "Karur vysya ATM In Karaikudi",
+    "address": "13, Nelson Rd, Sriramapuram, Srirangam, Tiruchirappalli, Tamil Nadu 620006, Nelson Road, Sriramapuram",
+    "latitude": 10.8639582,
+    "longitude": 78.6972986,
+    "type": "atm"
+  },
+  {
+    "name": "City Union Bank ATM",
+    "address": "VM5W+26C, Railway Station Road, Srirangam",
+    "latitude": 10.8575559,
+    "longitude": 78.695514,
+    "type": "atm"
+  },
+  {
+    "name": "State Bank of India ATM",
+    "address": "11/7, Melur Road, Srirangam",
+    "latitude": 10.8582484,
+    "longitude": 78.6866787,
+    "type": "atm"
+  },
+  {
+    "name": "Union Bank ATM",
+    "address": "VP52+2XJ, VS Nagar, Thiruvanaikoil",
+    "latitude": 10.8575846,
+    "longitude": 78.7023899,
+    "type": "atm"
+  },
+  {
+    "name": "HDFC Bank",
+    "address": "18, Ammamandapam Road, Srirangam, Tiruchirappalli",
+    "latitude": 10.848481,
+    "longitude": 78.689903,
+    "type": "atm"
+  },
+  {
+    "name": "City Union Bank Atm And Bus Stop",
+    "address": "RMWQ+XX9, Ganapathy Nagar, Sriramapuram",
+    "latitude": 10.847408,
+    "longitude": 78.6899945,
+    "type": "atm"
+  },
+  {
+    "name": "City Union Bank ATM",
+    "address": "51, Ammamandapam Road, Sriramapuram",
+    "latitude": 10.8572398,
+    "longitude": 78.68942,
+    "type": "atm"
+  },
+  {
+    "name": "Indian Overseas Bank",
+    "address": "Opposite East Gopuram, 178, North Uthrai Street, Srirangam",
+    "latitude": 10.8626729,
+    "longitude": 78.691277,
+    "type": "atm"
+  },
+  {
+    "name": "INDIAN BANK",
+    "address": "47, 195, East Uthrai Street, Srirangam",
+    "latitude": 10.8615297,
+    "longitude": 78.6912459,
+    "type": "atm"
+  },
+  {
+    "name": "SBI Kizhakkuvasal ATM",
+    "address": "VM6V+WM5, Sriramapuram",
+    "latitude": 10.8622528,
+    "longitude": 78.69423080000001,
+    "type": "atm"
+  },
+  {
+    "name": "State Bank E Corner",
+    "address": "VM6Q+J87, South Chitra St, Bangur Dhariyasala, Srirangam, Tiruchirappalli",
+    "latitude": 10.861533,
+    "longitude": 78.688305,
+    "type": "atm"
+  },
+  {
+    "name": "ICICI Bank ATM",
+    "address": "ICICI Bank LTD, 100, South Chitra Street, Srirangam, Tiruchirappalli",
+    "latitude": 10.8597356,
+    "longitude": 78.69033259999999,
+    "type": "atm"
+  },
+  {
+    "name": "HDFC Bank ATM",
+    "address": "18, Ammamandapam Road, Srirangam, Tiruchirappalli",
+    "latitude": 10.8574238,
+    "longitude": 78.6908061,
+    "type": "atm"
+  },
+  {
+    "name": "Karur Vysya Bank ATM",
+    "address": "Shop No.9, Yatri Nivas, Panjakkarai Salai, Srirangam, Srirangam, Tiruchirappalli",
+    "latitude": 10.8657996,
+    "longitude": 78.698086,
+    "type": "atm"
+  },
+  {
+    "name": "IDBI Bank ATM",
+    "address": "17, Gandhi Road, Srirangam, Tiruchirappalli",
+    "latitude": 10.8570401,
+    "longitude": 78.6932787,
+    "type": "atm"
+  },
+  {
+    "name": "idbi atm",
+    "address": "10/7, Patel Road, Gandhi Road, Sriramapuram",
+    "latitude": 10.8570068,
+    "longitude": 78.6933107,
+    "type": "atm"
+  },
+  {
+    "name": "Karur Vysya Bank ATM",
+    "address": "8 A, Thiruvadi Street, Srirangam, Tiruchirappalli",
+    "latitude": 10.8580512,
+    "longitude": 78.687803,
+    "type": "atm"
+  },
+  {
+    "name": "Karur Vysya Bank ATM",
+    "address": "VM5P+7QJ, Srirangam, Tiruchirappalli",
+    "latitude": 10.8582039,
+    "longitude": 78.686886,
+    "type": "atm"
+  },
+  {
+    "name": "CANARA BANK ATM",
+    "address": "17, Gandhi Road, Srirangam, Tiruchirappalli",
+    "latitude": 10.8561306,
+    "longitude": 78.6902923,
+    "type": "atm"
+  },
+  {
+    "name": "CANARA BANK ATM",
+    "address": "7, EVS Street, Ranga Nagar, SRIRANGAM, Tiruchirappalli",
+    "latitude": 10.855969,
+    "longitude": 78.6902724,
+    "type": "atm"
+  },
+  {
+    "name": "CANARA BANK ATM",
+    "address": "JAYA SREE SUDARSANA FLATS NO-5A, Raghavendrapuram, SRIRANGAM, Tiruchirappalli",
+    "latitude": 10.8571642,
+    "longitude": 78.6868977,
+    "type": "atm"
+  },
+  {
+    "name": "Indian Overseas Bank ATM TNNLU",
+    "address": "Ground floor, Amenities Block, Tamil Nadu National Law University, Taluk, Srirangam, Navalurkuttappattu",
+    "latitude": 10.8560296,
+    "longitude": 78.6965972,
+    "type": "atm"
+  },
+  {
+    "name": "CENTRAL BANK OF INDIA - ATM",
+    "address": "JAC DEPARTMENT STORE, 100, Gandhi Road, Srirangam, Tiruchirappalli",
+    "latitude": 10.8570204,
+    "longitude": 78.68510119999999,
+    "type": "atm"
+  },
+  {
+    "name": "Karur Vysya Bank ATM",
+    "address": "Shop No.4, 1.331, S.No, 24/24, Main Road, Somarasampettai",
+    "latitude": 10.854202,
+    "longitude": 78.6888757,
+    "type": "atm"
+  },
+  {
+    "name": "IDFC First Bank Kiosk/Micro ATM",
+    "address": "33, Ammamandapam Road, Srirangam",
+    "latitude": 10.8522393,
+    "longitude": 78.68954219999999,
+    "type": "atm"
+  },
+  {
+    "name": "Kotak Mahindra Bank ATM",
+    "address": "Sri Ram Kalyana Mahal Complex, Rajagopuram Front Side, 77/7, Ammamandapam Road, srirangam, Tiruchirappalli",
+    "latitude": 10.84953,
+    "longitude": 78.68847,
+    "type": "atm"
+  },
+  {
+    "name": "Indian Overseas Bank",
+    "address": "6, Kamdhenu Complex, Near TV Kovil Bus Stop, Main Road, Thiruvanaikovil, Tiruchirappalli",
+    "latitude": 10.8512399,
+    "longitude": 78.699878,
+    "type": "atm"
+  },
+  {
+    "name": "Karur Vysya Bank ATM",
+    "address": "27-B/14, EVS Street, Ranga Nagar, Srirangam, Tiruchirappalli",
+    "latitude": 10.8489297,
+    "longitude": 78.6908212,
+    "type": "atm"
+  },
+  {
+    "name": "Canara Bank Atm",
+    "address": "VP33+44W, Sannathi Street, Srirangam, Thiruvanaikoil",
+    "latitude": 10.8528722,
+    "longitude": 78.7028338,
+    "type": "atm"
+  },
+  {
+    "name": "Karur Vysya Bank ATM",
+    "address": "No.80/86, South Gate, Srirangam, Tiruchirappalli",
+    "latitude": 10.8502661,
+    "longitude": 78.69976989999999,
+    "type": "atm"
+  },
+  {
+    "name": "Karur Vysya Bank ATM",
+    "address": "RMXQ+6VG, Ammamandapam Road, Srirangam, Tiruchirappalli",
+    "latitude": 10.8480664,
+    "longitude": 78.6896885,
+    "type": "atm"
+  },
+  {
+    "name": "HDFC Bank",
+    "address": "Amma Mandapam, No B2, 2nd Street Extn, Navneet Andal, Srirangam, Tiruchirappalli",
+    "latitude": 10.8479246,
+    "longitude": 78.69113109999999,
+    "type": "atm"
+  },
+  {
+    "name": "Karur Vysya Bank ATM",
+    "address": "101 East Puliwar, Main Road, Tiruchirappalli",
+    "latitude": 10.8479514,
+    "longitude": 78.69311019999999,
+    "type": "atm"
+  },
+  {
+    "name": "South Indian Bank ATM",
+    "address": "4/221-A, Tiruchirapalli - Salem Main Road, Nochiyam",
+    "latitude": 10.8808569,
+    "longitude": 78.691458,
+    "type": "atm"
+  },
+  {
+    "name": "Prassanna Municipal Primary School",
+    "address": "VM8Q+45R, N Adayavalanjan St, Ranga Nagar, Srirangam, Tiruchirappalli",
+    "latitude": 10.8653568,
+    "longitude": 78.687887,
+    "type": "school"
+  },
+  {
+    "name": "Sri Trayee Vidya Gurukulam",
+    "address": "near Kollidam River, North Gate, Srirangam, Tiruchirappalli",
+    "latitude": 10.868568,
+    "longitude": 78.6904912,
+    "type": "school"
+  },
+  {
+    "name": "South Renga Middle School",
+    "address": "South, Chithirai Street, Srirangam, Tiruchirappalli",
+    "latitude": 10.859883,
+    "longitude": 78.6876582,
+    "type": "school"
+  },
+  {
+    "name": "Sub Treasury",
+    "address": "620006, Sriramapuram",
+    "latitude": 10.8599636,
+    "longitude": 78.6812191,
+    "type": "school"
+  },
+  {
+    "name": "Natural Therapeutics Centre - Yoga Center | Acupuncture",
+    "address": "50/186,, Periyar Nagar, Thiruvanaikoil, Tiruchirappalli",
+    "latitude": 10.8494381,
+    "longitude": 78.6962138,
+    "type": "school"
+  },
+  {
+    "name": "Sri Vageesha Vidhyashram Senior Secondary school (CBSE)",
+    "address": "VM9F+GXM, Melur Road, Srirangam, Tiruchirappalli",
+    "latitude": 10.8685513,
+    "longitude": 78.6763315,
+    "type": "school"
+  },
+  {
+    "name": "paadhuga vidhyalaya",
+    "address": "154, Uthrai St N, Sriramapuram, Tiruchirappalli",
+    "latitude": 10.8640061,
+    "longitude": 78.6913416,
+    "type": "school"
+  },
+  {
+    "name": "Sri RengaNayaki Veenai Vidhyalayam",
+    "address": "11/1, E Big St, Srirangam, Srirangam, Tiruchirappalli",
+    "latitude": 10.8645302,
+    "longitude": 78.6923272,
+    "type": "school"
+  },
+  {
+    "name": "Dr.G.Chitrambalam matriculation school",
+    "address": "37/39, Srirangam",
+    "latitude": 10.864515,
+    "longitude": 78.692849,
+    "type": "school"
+  },
+  {
+    "name": "Dr.Rajan Municipal Middle School",
+    "address": "VM6R+VVV, East Chitra Street, Srirangam, Tiruchirappalli",
+    "latitude": 10.8622278,
+    "longitude": 78.69218719999999,
+    "type": "school"
+  },
+  {
+    "name": "East Renga Middle School",
+    "address": "VM6V+V4C, East Adayavalanjan Street, Srirangam",
+    "latitude": 10.8621863,
+    "longitude": 78.6927742,
+    "type": "school"
+  },
+  {
+    "name": "Veena classes",
+    "address": "C1, First floor, diamondz Garuda appartments, East Adayavalanjan Street, Srirangam, Tiruchirappalli",
+    "latitude": 10.8652039,
+    "longitude": 78.69299989999999,
+    "type": "school"
+  },
+  {
+    "name": "Sreekids",
+    "address": "opp. VS Mahal, 245/237 keela, East Adayavalanjan Street, Srirangam, Tiruchirappalli",
+    "latitude": 10.8611573,
+    "longitude": 78.6927826,
+    "type": "school"
+  },
+  {
+    "name": "ஸ்ரீ முனீஸ்வரர் திருக்கோவில்",
+    "address": "VM7V+6VC, Srirangam, Tiruchirappalli",
+    "latitude": 10.8630929,
+    "longitude": 78.6946018,
+    "type": "school"
+  },
+  {
+    "name": "Royal Chess Academy,Sri rangam",
+    "address": "109/92, 109/92, Singer Kovil Street, Srirangam, Tiruchirappalli",
+    "latitude": 10.8617328,
+    "longitude": 78.6945492,
+    "type": "school"
+  },
+  {
+    "name": "Srirangam Girls Higher Secondary School",
+    "address": "Near Railway Station, 43, Kanniappan Street, Srirangam",
+    "latitude": 10.8620655,
+    "longitude": 78.6953435,
+    "type": "school"
+  },
+  {
+    "name": "Kalaivani Nursery and Primary School",
+    "address": "VM6V+7QQ, Srirangam, Tiruchirappalli",
+    "latitude": 10.8607012,
+    "longitude": 78.69448059999999,
+    "type": "school"
+  },
+  {
+    "name": "Srirangam Kainkaryalayam",
+    "address": "New No.18 / Old No.156, South, West Chitra Street, Srirangam, Tiruchirappalli",
+    "latitude": 10.859649,
+    "longitude": 78.6916957,
+    "type": "school"
+  },
+  {
+    "name": "Govt Exam Clear",
+    "address": "15, 29, South Chitra Street, Srirangam, Tiruchirappalli",
+    "latitude": 10.8597352,
+    "longitude": 78.6903397,
+    "type": "school"
+  },
+  {
+    "name": "The Kalaivaani Matriculation School",
+    "address": "VM6V+5VX, Singer Kovil Street, Srirangam",
+    "latitude": 10.8604975,
+    "longitude": 78.6947328,
+    "type": "school"
+  },
+  {
+    "name": "SREE ACADEMY",
+    "address": "VM5V+P22, East Adayavalanjan Street, Sriramapuram",
+    "latitude": 10.8592684,
+    "longitude": 78.6925033,
+    "type": "school"
+  },
+  {
+    "name": "The Higher Secondary School for Boys srirangam",
+    "address": "Shop No. 2, Singer Kovil Street, Srirangam, Tiruchirappalli",
+    "latitude": 10.860476,
+    "longitude": 78.69522189999999,
+    "type": "school"
+  },
+  {
+    "name": "Sri Bagawan Nursery & Primary School Srirangam",
+    "address": "Railway B Class land, Nelson Road, Sriramapuram, Tiruchirappalli",
+    "latitude": 10.8632473,
+    "longitude": 78.6966422,
+    "type": "school"
+  },
+  {
+    "name": "THIRUMAL TUITION CENTRE",
+    "address": "197 62, West Adayavalanjan Street, Sriramapuram, Tiruchirappalli",
+    "latitude": 10.8651872,
+    "longitude": 78.6870854,
+    "type": "school"
+  },
+  {
+    "name": "Seshagiri home",
+    "address": "104, West Gate, Srirangam, Tiruchirappalli",
+    "latitude": 10.8620811,
+    "longitude": 78.6868391,
+    "type": "school"
+  },
+  {
+    "name": "Trichy Corporation Middle School",
+    "address": "65A, North Devi Street, Shankar Nagar, Tiruchirappalli",
+    "latitude": 10.8587651,
+    "longitude": 78.6938613,
+    "type": "school"
+  },
+  {
+    "name": "AYYANAR CORP HS, MELUR",
+    "address": "VM7P+GG5, Melur Road, Srirangam",
+    "latitude": 10.8637631,
+    "longitude": 78.6863618,
+    "type": "school"
+  },
+  {
+    "name": "Devi Corporation School",
+    "address": "232, North Devi Street, Shankar Nagar",
+    "latitude": 10.8584934,
+    "longitude": 78.6934021,
+    "type": "school"
+  },
+  {
+    "name": "SHIRIDI SAI MATHS HOME TUITION",
+    "address": "G 6, A - BLOCK, ANAND AVENUE, Melur Road, Srirangam, Tiruchirappalli",
+    "latitude": 10.8617604,
+    "longitude": 78.68639329999999,
+    "type": "school"
+  },
+  {
+    "name": "Municipal Primary School South Chitra Street",
+    "address": "VM5Q+W2J, South Chitra Street, Sriramapuram, Srirangam, Tiruchirappalli",
+    "latitude": 10.8598412,
+    "longitude": 78.6875297,
+    "type": "school"
+  },
+  {
+    "name": "RMS Nursery and Primary School",
+    "address": "7/A, Melur Road, Sriramapuram",
+    "latitude": 10.8667438,
+    "longitude": 78.6870192,
+    "type": "school"
+  },
+  {
+    "name": "Brainobrain Srirangam",
+    "address": "No 7, North Devi Street, Srirangam, Pankajam Colony, Tiruchirappalli",
+    "latitude": 10.8578293,
+    "longitude": 78.6931887,
+    "type": "school"
+  },
+  {
+    "name": "Srirangam Chess Master's Academy",
+    "address": "Flat E, 2nd floor, Bharath Green Avenue, Salai Road, Srirangam, southernside",
+    "latitude": 10.8619419,
+    "longitude": 78.6858611,
+    "type": "school"
+  },
+  {
+    "name": "Sri Chess Academy",
+    "address": "Sannidhi, 5,G1 Lakshmi narasimha Flats Dasavadhara, Ramanujar Street, Srirangam",
+    "latitude": 10.8677448,
+    "longitude": 78.6872037,
+    "type": "school"
+  },
+  {
+    "name": "அர்ச்சகர் பயிற்சி பள்ளி - வைணவம்",
+    "address": "VM8X+85J, Tiruchirappalli",
+    "latitude": 10.8658326,
+    "longitude": 78.69790549999999,
+    "type": "school"
+  },
+  {
+    "name": "CA Students' Study Circle",
+    "address": "1B East Renganathapuram, Srirangam",
+    "latitude": 10.8567717,
+    "longitude": 78.6928381,
+    "type": "school"
+  },
+  {
+    "name": "CA SSC Academy",
+    "address": "7, Gandhi Road, Srirangam, Tiruchirappalli",
+    "latitude": 10.8565415,
+    "longitude": 78.6927905,
+    "type": "school"
+  },
+  {
+    "name": "Happy Hands Play School",
+    "address": "62/1, Thirruvalluvar Street, Srirangam, Tiruchirappalli",
+    "latitude": 10.858883,
+    "longitude": 78.6861624,
+    "type": "school"
+  },
+  {
+    "name": "Mds Gurukulam",
+    "address": "5/2, Sriramapuram",
+    "latitude": 10.856222,
+    "longitude": 78.69101599999999,
+    "type": "school"
+  },
+  {
+    "name": "SIP ABACUS SRIRANGAM TRICHY",
+    "address": "4/N11, Srirangam",
+    "latitude": 10.8566179,
+    "longitude": 78.688378,
+    "type": "school"
+  },
+  {
+    "name": "Srirangam Online Sloka Classes",
+    "address": "Floor, G Block-2, Vignesh Arunodhaya, Flat No: FF-107, First, Srirangam, Apartments, Melur Road, Srirangam, Tiruchirappalli",
+    "latitude": 10.8672194,
+    "longitude": 78.6846936,
+    "type": "school"
+  },
+  {
+    "name": "Sri Hayagreva Academy (Play school, Keyboard, Handwriting sloka Hindi classes in Srirangam, Trichy)",
+    "address": "No.5/4, Raghav Nivas, 2nd street, Raghavendrapuram",
+    "latitude": 10.8573276,
+    "longitude": 78.6869585,
+    "type": "school"
+  },
+  {
+    "name": "TARGET MATHS COACHING",
+    "address": "7C, SINGAR NIVAS, SARATHY NAGAR II CROSS, Nelson Road, Srirangam, Thiruvanaikoil",
+    "latitude": 10.8589549,
+    "longitude": 78.6982704,
+    "type": "school"
+  },
+  {
+    "name": "Isai Arangam, Music School",
+    "address": "VM4P+RW4, Sriramapuram",
+    "latitude": 10.8570037,
+    "longitude": 78.6873145,
+    "type": "school"
+  },
+  {
+    "name": "Vignesh Sri Renga Matric Hr.Sec. School,",
+    "address": "Ragavendrapuram, 18, Raghavendra Mutt Road, Srirangam, Tiruchirappalli",
+    "latitude": 10.8561537,
+    "longitude": 78.6885001,
+    "type": "school"
+  },
+  {
+    "name": "ITHAM PHYSIOTHERAPY CLINIC. Enter Raghavendra arch take 3Rd right &1st left. Enter road connecting to udhayalakshmi apt.",
+    "address": "Raghavendrapuram, near Meenakshi stores, 2nd Street, The road, Srirangam, Tiruchirappalli",
+    "latitude": 10.8573802,
+    "longitude": 78.6863767,
+    "type": "school"
+  },
+  {
+    "name": "Cool Kids",
+    "address": "5, South Devi Street, Srirangam, Tiruchirappalli",
+    "latitude": 10.8552571,
+    "longitude": 78.69345109999999,
+    "type": "school"
+  },
+  {
+    "name": "Srirangam Lalitha rajakumar devotional music",
+    "address": "Raghavendra Puram Road, Srirangam, Tiruchirappalli",
+    "latitude": 10.8567582,
+    "longitude": 78.68627579999999,
+    "type": "school"
+  },
+  {
+    "name": "Joyful Journey Play School",
+    "address": "No:40/10A-1, Rajaji Street, Ranga Nagar, Srirangam, Tiruchirappalli",
+    "latitude": 10.8548892,
+    "longitude": 78.6928897,
+    "type": "school"
+  },
+  {
+    "name": "Ragavendra Mandir",
+    "address": "Sri Rangam, Srirangam, Srirangam, Tiruchirappalli",
+    "latitude": 10.856607,
+    "longitude": 78.697215,
+    "type": "school"
+  },
+  {
+    "name": "Ranganagar Corporation Primary School",
+    "address": "VM3R+Q3R, Ranga Nagar",
+    "latitude": 10.8544826,
+    "longitude": 78.6901559,
+    "type": "school"
+  },
+  {
+    "name": "kalalayaa Srirangam Pre School",
+    "address": "Sri, 2/3, near Vinayagar Temple, opp. Venkateshwara Theatre, Ragavendra Garden, Thiruvanaikoil, Tiruchirappalli",
+    "latitude": 10.8587062,
+    "longitude": 78.7000498,
+    "type": "school"
+  },
+  {
+    "name": "Srirangam Girls Higher Secondary School",
+    "address": "8, Sathya Moorthy Street, Sriramapuram, Tiruchirappalli",
+    "latitude": 10.8549042,
+    "longitude": 78.6960878,
+    "type": "school"
+  },
+  {
+    "name": "Bodhi Premam Charitable Trust",
+    "address": "1/2, Mangamma Nagar, Srirangam, Tiruchirappalli",
+    "latitude": 10.8545111,
+    "longitude": 78.68731129999999,
+    "type": "school"
+  },
+  {
+    "name": "Government KG school",
+    "address": "VM4X+9HR, Srirangam",
+    "latitude": 10.8559852,
+    "longitude": 78.6988853,
+    "type": "school"
+  },
+  {
+    "name": "Kids Campus International Pre School",
+    "address": "4, Gandhi Road, Srirangam",
+    "latitude": 10.854446,
+    "longitude": 78.69689590000002,
+    "type": "school"
+  },
+  {
+    "name": "Online Chess Coaching for Kids",
+    "address": "G-10, vickys garden, Nelson Road, Srinivasa Nagar North Extension, Tiruchirappalli",
+    "latitude": 10.8555264,
+    "longitude": 78.69881869999999,
+    "type": "school"
+  },
+  {
+    "name": "Bharathi IAS Academy",
+    "address": "First Floor, BHARATHI IAS ACADEMY Best TNPSC Centre in Trichy 113 Lakshmi Nagar, behind EB Sub Station, Melur Road, Srirangam, Landmark:, Tiruchirappalli",
+    "latitude": 10.8605441,
+    "longitude": 78.6813722,
+    "type": "school"
+  },
+  {
+    "name": "Mpa",
+    "address": "6/18, 5th St, Srinivasa Nagar, Thiruvanaikoil",
+    "latitude": 10.854095,
+    "longitude": 78.6969027,
+    "type": "school"
+  },
+  {
+    "name": "Sree Vaijayanthee Vidyalaya",
+    "address": "VM3P+QC4, Mangamma Nagar, Srirangam, Tiruchirappalli",
+    "latitude": 10.8543872,
+    "longitude": 78.6860726,
+    "type": "school"
+  }
+]

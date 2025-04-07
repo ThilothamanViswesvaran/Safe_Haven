@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="signup.css">
+    <link rel="icon" href="assets/images/favicon-32x32.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&display=swap" rel="stylesheet">
+    <title>Sign Up · Safe Haven</title>
+</head>
+
+<body>
+    <div class="bg-1">
+        <div class="bg-2">
+            <img class="background-image" src="assets/images/Landing Page 1.jpg" alt="background">
+        </div>
+        <header class="header">
+            <img src="assets/images/Safe Haven Logo.svg" alt="logo">
+            <span>Safe Haven</span>
+        </header>
+        <span class="tagline">Start Your Journey to a Safer Neighborhood Here!</span>
+        <span class="tagline-1">Find Secure Homes with Up-to-Date Insights.</span>
+        <form id="signup">
+            <div>
+                <label for="first-name" class="name">First Name</label>
+                <input id="first-name" name="first-name" class="name-box" type="text" placeholder="Enter..." required>
+        
+                <label for="last-name" class="name-1">Last Name</label>
+                <input id="last-name" name="last-name" class="name-box-1" type="text" placeholder="Enter..." required>
+        
+                <label for="email" class="email">Email Address</label>
+                <input id="email" name="email" class="email-box" type="email" placeholder="Enter your email" required>
+        
+                <label for="phone-number" class="number">Phone Number (Optional)</label>
+                <input id="phone-number" name="phone-number" class="number-box" type="tel" placeholder="Enter your phone number">
+        
+                <label for="dob" class="dob">Date of Birth (Optional)</label>
+                <input id="dob" name="dob" class="dob-box" type="date">
+        
+                <label for="nationality" class="country">Nationality</label>
+                <input id="nationality" name="nationality" class="country-box" type="search" placeholder="Enter your Nationality" required>
+        
+                <label for="password" class="password">Password</label>
+                <input id="password" name="password" class="password-box" type="password" placeholder="Enter your password" required>
+        
+                <label for="confirm-password" class="confirm-password">Confirm Password</label>
+                <input id="confirm-password" name="confirm-password" class="confirm-password-box" type="password" placeholder="Re-enter your password" required>
+        
+                <button id="cancel" type="reset" class="cancel">Cancel</button>
+                <button id="confirm" type="submit" class="confirm">Confirm</button>
+        
+                <span class="login-btn-1">Already have an account?</span>
+                <a class="login-btn" target="_blank" href="signin.html">Login</a>
+            </div>
+        </form>
+
+    </div>
+    <script src="signup.js"></script>
+</body>
+
+</html>

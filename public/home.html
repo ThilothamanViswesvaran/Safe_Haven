@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="home.css">
+    <link rel="icon" href="assets/images/favicon-32x32.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.typekit.net/mao2ejy.css">
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB38DDVaEpSQJN8kH5sol9ECGumiqOOiBs&libraries=places"></script>
+    
+
+    <title>Home · Safe Haven</title>
+</head>
+
+<body>
+    <a class="login-header" target="_blank" href="signin.html">Login</a>
+    <a class="signup-header" target="_blank" href="signup.html">Sign Up</a>
+
+    <div class="bg-1">
+        <div class="bg-2">
+            <img class="background-image" src="assets/images/Landing Page.jpg" alt="background">
+        </div>
+        <header class="header">
+            <img src="assets/images/Safe Haven Logo.svg" alt="logo">
+            <span>Safe Haven</span>
+        </header>
+        <span class="tagline">Your Path to a Secure Neighborhood Starts Here!</span>
+        <span class="tagline-1">Discover Safe Places to Live with Real-Time Insights.</span>
+
+        <!-- Search Input -->
+        <input class="search-bar" type="text" id="locationInput"
+            placeholder="Enter a location (e.g., Anna Nagar, Chennai)">
+        
+        <!-- Range Selection -->
+        <div class="range-container">
+            <span class="static-text">Range</span>
+            <input type="text" class="range-input" id="rangeInput" maxlength="2" placeholder="1 - 10 Km">
+        </div>
+
+        <!-- Search Button -->
+        <button id="searchButton">Search</button>
+
+    </div>
+
+    <script>
+        document.getElementById("searchButton").addEventListener("click", function () {
+            let location = document.getElementById("locationInput").value.trim();
+            let range = document.getElementById("rangeInput").value.trim();
+
+            // Validate inputs
+            if (!location) {
+                alert("Please enter a location!");
+                return;
+            }
+            if (!range || isNaN(range) || range < 1 || range > 10) {
+                alert("Please enter a valid range between 1 - 10 Km!");
+                return;
+            }
+
+            // Redirect with location & range
+            window.location.href = `analytics.html?location=${encodeURIComponent(location)}&range=${range}`;
+        });
+
+        document.getElementById("locationInput").addEventListener("keypress", function (event) {
+            if (event.key === "Enter") {
+                document.getElementById("searchButton").click();
+            }
+        });
+
+        document.getElementById("rangeInput").addEventListener("keypress", function (event) {
+            if (event.key === "Enter") {
+                document.getElementById("searchButton").click();
+            }
+        });
+    </script>
+
+<script src="home.js"></script>
+
+</body>
+
+</html>

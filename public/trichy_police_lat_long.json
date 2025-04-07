@@ -1,0 +1,122 @@
+[
+    {
+      "name": "Cantonment Police Station",
+      "address": "Near Collector Office, Trichy - 620001",
+      "latitude": 10.80744192732677,
+      "longitude": 78.68278176619759
+    },
+    {
+      "name": "Fort Police Station",
+      "address": "Fort, Trichy - 620008",
+      "latitude": 10.8055,
+      "longitude": 78.7047
+    },
+    {
+      "name": "Gandhi Market Police Station",
+      "address": "Near Gandhi Market, Trichy - 620002",
+      "latitude": 10.8100,
+      "longitude": 78.7030
+    },
+    {
+      "name": "Palakkarai Police Station",
+      "address": "Palakkarai, Trichy - 620001",
+      "latitude": 10.7980,
+      "longitude": 78.6960
+    },
+    {
+      "name": "Srirangam Police Station",
+      "address": "Near Sri Ranganathaswamy Temple, Trichy - 620006",
+      "latitude": 10.8620,
+      "longitude": 78.6838
+    },
+    {
+      "name": "Golden Rock Police Station",
+      "address": "Golden Rock, Trichy - 620004",
+      "latitude": 10.7720,
+      "longitude": 78.7300
+    },
+    {
+      "name": "KK Nagar Police Station",
+      "address": "KK Nagar, Trichy - 620021",
+      "latitude": 10.7985,
+      "longitude": 78.6825
+    },
+    {
+      "name": "Thillai Nagar Police Station",
+      "address": "Thillai Nagar, Trichy - 620018",
+      "latitude": 10.8150,
+      "longitude": 78.6965
+    },
+    {
+      "name": "Edamalaipatti Pudur Police Station",
+      "address": "Edamalaipatti Pudur, Trichy - 620012",
+      "latitude": 10.7900,
+      "longitude": 78.6700
+    },
+    {
+      "name": "Ponmalai Police Station",
+      "address": "Ponmalai, Trichy - 620004",
+      "latitude": 10.7650,
+      "longitude": 78.7200
+    },
+    {
+      "name": "Lalgudi Police Station",
+      "address": "Lalgudi, Trichy - 621601",
+      "latitude": 10.8740,
+      "longitude": 78.8190
+    },
+    {
+      "name": "Manachanallur Police Station",
+      "address": "Manachanallur, Trichy - 621005",
+      "latitude": 10.8910,
+      "longitude": 78.7400
+    },
+    {
+      "name": "Thiruverumbur Police Station",
+      "address": "Thiruverumbur, Trichy - 620013",
+      "latitude": 10.7526,
+      "longitude": 78.8229
+    },
+    {
+      "name": "Manapparai Police Station",
+      "address": "Manapparai, Trichy - 621306",
+      "latitude": 10.6070,
+      "longitude": 78.4250
+    },
+    {
+      "name": "Musiri Police Station",
+      "address": "Musiri, Trichy - 621211",
+      "latitude": 10.9380,
+      "longitude": 78.4440
+    },
+    {
+      "name": "Thottiyam Police Station",
+      "address": "Thottiyam, Trichy - 621215",
+      "latitude": 11.1000,
+      "longitude": 78.4500
+    },
+    {
+      "name": "Thuraiyur Police Station",
+      "address": "Thuraiyur, Trichy - 621010",
+      "latitude": 11.1500,
+      "longitude": 78.6000
+    },
+    {
+      "name": "Kattuputhur Police Station",
+      "address": "Kattuputhur, Trichy - 621207",
+      "latitude": 10.9500,
+      "longitude": 78.3500
+    },
+    {
+      "name": "Inamkulathur Police Station",
+      "address": "Inamkulathur, Trichy - 621303",
+      "latitude": 10.7900,
+      "longitude": 78.6300
+    },
+    {
+      "name": "Jeeyapuram Police Station",
+      "address": "Jeeyapuram, Trichy - 620001",
+      "latitude": 10.8700,
+      "longitude": 78.5800
+    }
+  ]

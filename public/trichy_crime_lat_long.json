@@ -1,0 +1,44 @@
+{
+  "crime_locations": [
+    {
+      "area": "Fort",
+      "crime_count": 38,
+      "coordinates": {
+        "lat": 10.828,
+        "lng": 78.6897
+      }
+    },
+    {
+      "area": "Cantonment",
+      "crime_count": 17,
+      "coordinates": {
+        "lat": 10.8234,
+        "lng": 78.6956
+      }
+    },
+    {
+      "area": "Thillai Nagar",
+      "crime_count": 15,
+      "coordinates": {
+        "lat": 10.8065,
+        "lng": 78.6902
+      }
+    },
+    {
+      "area": "Gandhi Market",
+      "crime_count": 19,
+      "coordinates": {
+        "lat": 10.8023,
+        "lng": 78.6821
+      }
+    },
+    {
+      "area": "NSB Road",
+      "crime_count": 1,
+      "coordinates": {
+        "lat": 10.8165,
+        "lng": 78.6842
+      }
+    }
+  ]
+}

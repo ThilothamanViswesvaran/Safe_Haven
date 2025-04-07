@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analytics · Safe Haven</title>
+    <link rel="stylesheet" href="analytics.css">
+    <link rel="icon" href="assets/images/favicon-32x32.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&display=swap" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/heatmap.js/2.0.5/heatmap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/heatmap.js/2.0.5/gmaps-heatmap.min.js"></script>
+    <script
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB38DDVaEpSQJN8kH5sol9ECGumiqOOiBs&libraries=visualization,geometry&callback=initMap"
+        async defer></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+</head>
+
+<body>
+    <div class="bg">
+        <img class="background-image" src="assets/images/Analytics Page.jpg" alt="Analytics Page BG">
+    </div>
+
+    <div class="top-bar"></div>
+    <span class="neighborhood">Neighborhood Insights</span>
+    <div class="side-bar"></div>
+
+    <img class="sh-logo" src="assets/images/Safe Haven Logo.svg">
+    <a href="home.html">
+        <img class="home-logo" src="assets/images/house-user-solid.svg">
+    </a>
+    <img class="notification" src="assets/images/bell-solid.svg">
+
+    <!-- Center Content -->
+    <div class="centre-box">
+        <div class="centre-box-1"></div>
+        <span class="crime-rate">Crime Rate</span>
+        <div class="centre-box-2">
+            <div class="progress">
+                <div class="barOverflow">
+                    <div class="bar"></div>
+                </div>
+                <span>100</span>%
+            </div>
+        </div>
+
+        <!-- Change this section in your centre-box-3 div -->
+        <div class="centre-box-3">
+            <h3 class="col">Amenities in <span id="area-name"></span></h3>
+            <a href="#map" class="amenity clickable" data-type="supermarket" >
+                <strong>Super Market</strong> 
+                <span id="supermarket-count">Loading...</span>
+            </a>
+            <a href="#map" class="amenity clickable" data-type="atm" >
+                <strong>ATM</strong> 
+                <span id="atm-count">Loading...</span>
+            </a>
+            <a href="#map" class="amenity clickable" data-type="school">
+                <strong>School</strong> 
+                <span id="school-count">Loading...</span>
+            </a>
+        </div>
+
+    <!-- Google Maps Container -->
+    <div class="bottom-box-1" id="map-container">
+        <div id="map"></div>
+    </div>
+
+    <div class="bottom-box-2">
+        <div id="police-list" class="scrollable-box"></div>
+    </div>
+    </div>
+    <!-- JavaScript -->
+    <script src="analytics.js"></script>
+</body>
+
+</html>

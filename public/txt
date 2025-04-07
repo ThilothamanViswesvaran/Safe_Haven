@@ -1,0 +1,73 @@
+[{ "coordinates": { "lat": 10.7904833, "lng": 78.7046725 }, "crimeType": "theft" },
+{ "coordinates": { "lat": 10.8502661, "lng": 78.69976989999999 }, "crimeType": "assault" },
+{ "coordinates": { "lat": 10.7906042, "lng": 78.67031879999999 }, "crimeType": "theft" },
+{ "coordinates": { "lat": 10.8012218, "lng": 78.6892195 }, "crimeType": "theft" },
+{ "coordinates": { "lat": 10.8264525, "lng": 78.6969704 }, "crimeType": "theft" }]
+
+{"coordinates":{"lat":10.8073866,"lng":78.68277359999999},"name":"Cantonment Police Station","address":"RM4M+X42, Benwells Rd, Sangillyandapuram, Tiruchirappalli, Tamil Nadu 620001"},
+{"coordinates":{"lat":10.7989791,"lng":78.6810011},"name":"Police Station","address":"QMXJ+HCR, Cantonment, Tiruchirappalli, Tamil Nadu 620001"}
+
+{"coordinates":{"lat":10.8467687,"lng":78.6909122},"name":"Kaveri Supermarket","address":"131, Ammamandapam Rd, Ganapathy Nagar, Sriramapuram, Srirangam, Tiruchirappalli, Tamil Nadu 620008, Ammamandapam Road, Ganapathy Nagar, Sriramapuram","type":"supermarket"},
+{"coordinates":{"lat":10.859821,"lng":78.6892778},"name":"Evening Market","address":"102, S, 115, South Chitra Street, Srirangam, Tiruchirappalli","type":"supermarket"}
+
+
+{"coordinates":{"lat":10.8665542,"lng":78.6934297},"name":"Axis Bank ATM","address":"No 1, Annai Illam, opposite Thangam Avenue, Srirangam, Tiruchirappalli","type":"atm"},
+{"coordinates":{"lat":10.8639582,"lng":78.6972986},"name":"Karur vysya ATM In Karaikudi","address":"13, Nelson Rd, Sriramapuram, Srirangam, Tiruchirappalli, Tamil Nadu 620006, Nelson Road, Sriramapuram","type":"atm"}
+
+{"coordinates":{"lat":10.8653568,"lng":78.687887},"name":"Prassanna Municipal Primary School","address":"VM8Q+45R, N Adayavalanjan St, Ranga Nagar, Srirangam, Tiruchirappalli","type":"school"},
+{"coordinates":{"lat":10.868568,"lng":78.6904912},"name":"Sri Trayee Vidya Gurukulam","address":"near Kollidam River, North Gate, Srirangam, Tiruchirappalli","type":"school"}
+
+
+
+
+
+
+
+
+{"coordinates":{"lat":10.8467687,"lng":78.6909122},"name":"Kaveri Supermarket","address":"131, Ammamandapam Rd, Ganapathy Nagar, Sriramapuram, Srirangam, Tiruchirappalli, Tamil Nadu 620008, Ammamandapam Road, Ganapathy Nagar, Sriramapuram","type":"supermarket"},
+
+{"coordinates":{"lat":10.859821,"lng":78.6892778},"name":"Evening Market","address":"102, S, 115, South Chitra Street, Srirangam, Tiruchirappalli","type":"supermarket"}
+
+
+
+
+
+{"coordinates":{"lat":10.8665542,"lng":78.6934297},"name":"Axis Bank ATM","address":"No 1, Annai Illam, opposite Thangam Avenue, Srirangam, Tiruchirappalli","type":"atm"},
+
+{"coordinates":{"lat":10.8639582,"lng":78.6972986},"name":"Karur vysya ATM In Karaikudi","address":"13, Nelson Rd, Sriramapuram, Srirangam, Tiruchirappalli, Tamil Nadu 620006, Nelson Road, Sriramapuram","type":"atm"}
+
+
+
+{"coordinates":{"lat":10.8653568,"lng":78.687887},"name":"Prassanna Municipal Primary School","address":"VM8Q+45R, N Adayavalanjan St, Ranga Nagar, Srirangam, Tiruchirappalli","type":"school"},
+
+{"coordinates":{"lat":10.868568,"lng":78.6904912},"name":"Sri Trayee Vidya Gurukulam","address":"near Kollidam River, North Gate, Srirangam, Tiruchirappalli","type":"school"}
+
+
+
+THIS IS THE NEW STRUCTURE OF AMENITIES , NOW CHANGE THE STRUCTURE ALONE
+
+
+
+
+
+{"coordinates":{"lat":10.8073866,"lng":78.68277359999999},"name":"Cantonment Police Station","address":"RM4M+X42, Benwells Rd, Sangillyandapuram, Tiruchirappalli, Tamil Nadu 620001"},
+
+{"coordinates":{"lat":10.7989791,"lng":78.6810011},"name":"Police Station","address":"QMXJ+HCR, Cantonment, Tiruchirappalli, Tamil Nadu 620001"}
+
+
+
+THIS IS THE NEW STRUCTURE OF POLICE STATION DETAILS, NOW CHANGE THE STRUCTURE ALONE
+
+
+
+{ "coordinates": { "lat": 10.7904833, "lng": 78.7046725 }, "crimeType": "theft" },
+
+{ "coordinates": { "lat": 10.8502661, "lng": 78.69976989999999 }, "crimeType": "assault" }
+
+
+
+THIS IS THE NEW STRUCTURE OF CRIME DATA, NOW CHANGE THE STRUCTURE ALONE
+
+
+
+GIVE ME THE CHANGES ALONE
